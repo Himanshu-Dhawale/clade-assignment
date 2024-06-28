@@ -2,7 +2,7 @@ import React from 'react'
 
 const Sidebar = () => {
   return (
-<aside className="w-full max-w-sm lg:w-80 h-auto fixed top-9 right-0 lg:right-4 p-4 bg-white shadow-lg rounded-lg space-y-6">
+<aside className="w-full max-w-sm lg:w-80 h-auto top-9 right-0 lg:right-4 p-4 bg-white shadow-lg rounded-lg space-y-6">
       <div className="flex gap-4">
         <button className="w-[172px] px-3 py-2 flex items-center justify-center gap-2 bg-[#FEF4F2] border border-[#DC4A2D] rounded-lg">
           <img src="/src/assets/trash-03.png" alt="trash" className="w-5 h-5"/>
